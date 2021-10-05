@@ -1,3 +1,20 @@
+Amazon layout - 
+
+![Screenshot (60)](https://user-images.githubusercontent.com/40172763/136093448-8bb77e71-4f7d-4b80-befc-2d5279800997.png)
+
+Add item (Cart gets updated in the real time)
+
+![Screenshot (61)](https://user-images.githubusercontent.com/40172763/136093524-1640177c-de18-4826-be78-bf07d7b87fbf.png)
+
+Subtotal gets calculated and you can also remove items from the cart 
+
+![Screenshot (62)](https://user-images.githubusercontent.com/40172763/136093623-083df611-333f-48a4-b931-815b13c590ec.png)
+
+Login Page -
+
+![Screenshot (63)](https://user-images.githubusercontent.com/40172763/136093645-1e98f3e5-9076-4bff-bf7c-9ce37c2f674d.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

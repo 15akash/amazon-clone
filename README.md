@@ -2,7 +2,7 @@ Amazon layout -
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/40172763/136093448-8bb77e71-4f7d-4b80-befc-2d5279800997.png)
 
-Add item (Cart gets updated in the real time)
+Add item (Cart gets updated in the real time) --
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/40172763/136093524-1640177c-de18-4826-be78-bf07d7b87fbf.png)
 
